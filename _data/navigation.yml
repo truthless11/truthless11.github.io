@@ -12,5 +12,8 @@ main:
   - title: "Experience"
     url: /#experience
 
+  - title: "Service"
+    url: /#service
+
   - title: "Honors and Awards"
     url: /#honors-and-awards  
