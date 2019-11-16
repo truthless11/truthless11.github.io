@@ -29,8 +29,8 @@ Publications
 
 Experience
 ======
-- Feb. 2020 - May 2020. Intern, Machine Learning Group, Microsoft Research, Redmond, WA, US.
-- Jul. 2018 - Sep. 2018. Intern, Search Algorithm Team, Alibaba Group, Hangzhou, China.
+- Feb. 2020 - May 2020. Research Intern, Machine Learning Group, Microsoft Research, Redmond, WA, US.
+- Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba Group, Hangzhou, China.
 
 Service
 ======
