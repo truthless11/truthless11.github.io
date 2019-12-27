@@ -17,7 +17,7 @@ Education
 
 Preprints
 ======
-- Jinchao Li, Baolin Peng, Sungjin Lee, Jianfeng Gao, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang, Hannes Schulz, Adam Atkinson, Mahmoud Adada. Results of the Multi-Domain Task-Completion Dialog Challenge. The Eighth Dialog System Technology Challenge Workshop at the 34th AAAI Conference on Artificial Intelligence. (**DSTC8@AAAI'20**) [[pdf]](https://truthless11.github.io/pdf/DSTC8.pdf) [[bib]](https://truthless11.github.io/bib/DSTC8.bib)
+- Jinchao Li, Baolin Peng, Sungjin Lee, Jianfeng Gao, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang, Hannes Schulz, Adam Atkinson, Mahmoud Adada. Results of the Multi-Domain Task-Completion Dialog Challenge. The 8th Dialog System Technology Challenge Workshop at the 34th AAAI Conference on Artificial Intelligence. (**DSTC8@AAAI'20**) [[pdf]](https://truthless11.github.io/pdf/DSTC8.pdf) [[bib]](https://truthless11.github.io/bib/DSTC8.bib)
 - Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Deep Conversational Recommender in Travel. [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
 
 Publications
@@ -30,13 +30,14 @@ Publications
 
 Experience
 ======
-- Feb. 2020 - May 2020. Research Intern, Machine Learning Group, Microsoft Research, Redmond, WA, US.
+- Jun. 2020 - Sep. 2020. Applied Scientist Intern, Alexa AI Team, Amazon Alexa, Seattle, WA, US.
+- Feb. 2020 - May 2020. Research Intern, Deep Learning Group, Microsoft Research, Redmond, WA, US.
 - Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba Group, Hangzhou, China.
 
 Service
 ======
 - Organizer: DSTC 8 Track 1
-- Review Assistant: IJCAI 2019, EMNLP 2019
+- Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
 
 Honors and Awards
 ======
