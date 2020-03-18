@@ -17,6 +17,7 @@ Education
 
 Preprints
 ======
+- Zheng Zhang, **Ryuichi Takanobu**, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-oriented Dialog System. [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://
   github.com/thu-coai/ConvLab-2)
 - Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Deep Conversational Recommender in Travel. [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
@@ -38,7 +39,7 @@ Experience
 
 Services
 ======
-- Organizer: DSTC 8 Track 1
+- Organizer: DSTC 8 Track 1, DSTC 9
 - Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
 
 Honors and Awards
@@ -47,7 +48,5 @@ Honors and Awards
 - Excellent Graduate, Department of Computer Science and Technology, Tsinghua University, 2019
 - Sensetime Scholarship, 2018
 - Qualcomm Scholarship, 2018
-- Outstanding International Students Scholarship, 2018
 - Overall Excellence Scholarship, Tsinghua University, 2017
-- Academic Excellence Scholarship, Tsinghua University, 2016
 - Chinese Mathematical Olympiad (CMO), Second Prize, 2015
