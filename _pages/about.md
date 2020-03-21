@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about conversational system and reinforcement learning.
+I am now a first year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about conversational system, recommender system and reinforcement learning.
 
 Education
 ======
@@ -18,8 +18,7 @@ Education
 Preprints
 ======
 - Zheng Zhang, **Ryuichi Takanobu**, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-oriented Dialog System. [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
-- Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://
-  github.com/thu-coai/ConvLab-2)
+- Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
 - Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Deep Conversational Recommender in Travel. [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
 
 Publications
@@ -39,7 +38,7 @@ Experience
 
 Services
 ======
-- Organizer: DSTC 8 Track 1, DSTC 9
+- Organizer: DSTC 8 Track 1, DSTC 9 Track 2
 - Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
 
 Honors and Awards
