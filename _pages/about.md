@@ -17,12 +17,12 @@ Education
 
 Preprints
 ======
-- Zheng Zhang, **Ryuichi Takanobu**, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-oriented Dialog System. [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
+- Zheng Zhang, **Ryuichi Takanobu**, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog System. [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
 - Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Deep Conversational Recommender in Travel. [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
 
 Publications
 ======
-- **Ryuichi Takanobu**, Runze Liang, Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
+- **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. (Demo) The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
 - Jinchao Li, Baolin Peng, Sungjin Lee, Jianfeng Gao, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang, Hannes Schulz, Adam Atkinson and Mahmoud Adada. Results of the Multi-Domain Task-Completion Dialog Challenge. The 8th Dialog System Technology Challenge Workshop at the 34th AAAI Conference on Artificial Intelligence. (**DSTC8@AAAI'20**) [[pdf]](https://truthless11.github.io/pdf/DSTC8.pdf) [[bib]](https://truthless11.github.io/bib/DSTC8.bib)
 - **Ryuichi Takanobu**, Hanlin Zhu and Minlie Huang. Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog. (<font color="#dd0000">Oral</font>) The 24th Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing. (**EMNLP-IJCNLP'19**) [[pdf]](https://truthless11.github.io/pdf/GDPL.pdf) [[bib]](https://truthless11.github.io/bib/GDPL.bib) [[code]](https://github.com/truthless11/GDPL)
@@ -40,7 +40,8 @@ Experience
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020, EMNLP 2020
+- PC member: EMNLP 2020
+- Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
 
 Honors and Awards
 ======
