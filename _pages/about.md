@@ -40,7 +40,7 @@ Experience
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- PC member: EMNLP 2020
+- PC Member: EMNLP 2020
 - Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
 
 Honors and Awards
