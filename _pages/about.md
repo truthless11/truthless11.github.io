@@ -46,6 +46,7 @@ Services
 
 Honors and Awards
 ======
+- Alibaba Innovative Research Award, 2019
 - Excellent Undergraduate Thesis, Beijing, 2019 (*Top-1 score in the Department of CST*)
 - Excellent Graduate, Department of Computer Science and Technology, Tsinghua University, 2019
 - Sensetime Scholarship, 2018
