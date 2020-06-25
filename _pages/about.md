@@ -21,9 +21,8 @@ Preprints
 
 Publications
 ======
+**Conference**
 
-Conference
-------
 - **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. (Demo) The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
 - **Ryuichi Takanobu**, Qi Zhu, Jinchao Li, Baolin Peng, Jianfeng Gao and Minlie Huang. Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical Analysis of System-wise Evaluation. The 21st Annual Meeting of the Special Interest Group on Discourse and Dialogue. (**SIGDIAL'20**) [[pdf]](https://truthless11.github.io/pdf/SysEval.pdf) [[bib]](https://truthless11.github.io/bib/SysEval.bib)
@@ -34,9 +33,9 @@ Conference
 - **Ryuichi Takanobu**, Tianyang Zhang, Jiexi Liu and Minlie Huang. A Hierarchical Framework for Relation Extraction with Reinforcement Learning. (<font color="#dd0000">Oral</font>) The 33rd AAAI Conference on Artificial Intelligence. (**AAAI'19**) [[pdf]](https://truthless11.github.io/pdf/HRLRE.pdf) [[bib]](https://truthless11.github.io/bib/HRLRE.bib) [[code]](https://github.com/truthless11/HRL-RE)
 - **Ryuichi Takanobu**, Minlie Huang, Zhongzhou Zhao, Fenglin Li, Haiqing Chen, Liqiang Nie and Xiaoyan Zhu. Weakly Supervised Topic Segmentation and Labeling in Goal-Oriented Dialogues via Reinforcement Learning. The 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence. (**IJCAI-ECAI'18**) [[pdf]](https://truthless11.github.io/pdf/TopicSegLabel.pdf) [[bib]](https://truthless11.github.io/bib/TopicSegLabel.bib) [[code]](https://github.com/truthless11/Topic-Seg-Label)
 
-Journal
-------
-- Zheng Zhang, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog Systems. (**Science China Technological Sciences**) [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
+**Journal**
+
+- Zheng Zhang, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog Systems. (**Science China Technological Sciences, 2020**) [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
 
 Experience
 ======
