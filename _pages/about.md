@@ -32,7 +32,7 @@ Publications
 **Journal Papers**
 
 - Zheng Zhang, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog Systems. (**Science China Technological Sciences, 2020**) [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
-- Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Deep Conversational Recommender in Travel. (**Transactions on Knowledge and Data Engineering, 2020**) [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
+- Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Topic-Guided Conversational Recommender in Multiple Domains. (**Transactions on Knowledge and Data Engineering, 2020**) [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
 
 Experience
 ======
@@ -43,8 +43,8 @@ Experience
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- PC Member: EMNLP 2020
-- Reviewer: IJCAI 2019, EMNLP 2019, ACL 2020
+- PC Member: ACL 2020, EMNLP 2020
+- Reviewer: IJCAI 2019, EMNLP 2019
 
 Honors and Awards
 ======
