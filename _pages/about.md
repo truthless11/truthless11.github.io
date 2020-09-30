@@ -19,6 +19,7 @@ Publications
 ======
 **Conference Papers**
 
+- Peixin Huang, Xiang Zhao, **Ryuichi Takanobu**, Zhen Tan and Weidong Xiao. Joint Event Extraction with Hierarchical Policy Network. The 28th International Conference on Computational Linguistics. (**COLING'20**) [[pdf]](https://truthless11.github.io/pdf/HRLEE.pdf) [[bib]](https://truthless11.github.io/bib/HRLEE.bib)
 - **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. (Demo) The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
 - **Ryuichi Takanobu**, Qi Zhu, Jinchao Li, Baolin Peng, Jianfeng Gao and Minlie Huang. Is Your Goal-Oriented Dialog Model Performing Really Well? Empirical Analysis of System-wise Evaluation. (<font color="#dd0000">Best Paper</font>) The 21st Annual Meeting of the Special Interest Group on Discourse and Dialogue. (**SIGDIAL'20**) [[pdf]](https://truthless11.github.io/pdf/SysEval.pdf) [[bib]](https://truthless11.github.io/bib/SysEval.bib)
@@ -36,14 +37,14 @@ Publications
 
 Experience
 ======
--  Oct. 2020 - Jan. 2021 (expected). Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
+-  Feb. 2021 - May 2021 (expected). Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
 - Jun. 2020 - Sep. 2020. Research Intern, WeChat AI Team, Tencent, Beijing, China.
 - Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba, Hangzhou, China.
 
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- PC Member: ACL 2020, EMNLP 2020
+- PC Member: ACL 2020, EMNLP 2020, EACL 2021
 - Reviewer: IJCAI 2019, EMNLP 2019
 
 Honors and Awards
