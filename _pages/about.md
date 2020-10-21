@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, recommender systems and reinforcement learning.
+I am now a second year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, recommender systems and reinforcement learning.
 
 Education
 ======
