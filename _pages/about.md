@@ -17,6 +17,8 @@ Education
 
 Publications
 ======
+(* indicates equal contribution)
+
 **Conference Papers**
 
 - Peixin Huang, Xiang Zhao, **Ryuichi Takanobu**, Zhen Tan and Weidong Xiao. Joint Event Extraction with Hierarchical Policy Network. The 28th International Conference on Computational Linguistics. (**COLING'20**) [[pdf]](https://truthless11.github.io/pdf/HRLEE.pdf) [[bib]](https://truthless11.github.io/bib/HRLEE.bib) 
@@ -26,7 +28,7 @@ Publications
 - **Ryuichi Takanobu**, Hanlin Zhu and Minlie Huang. Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog. (<font color="#dd0000">Oral</font>) The 24th Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing. (**EMNLP-IJCNLP'19**) [[pdf]](https://truthless11.github.io/pdf/GDPL.pdf) [[bib]](https://truthless11.github.io/bib/GDPL.bib) [[code]](https://github.com/truthless11/GDPL)
 - Sungjin Lee, Qi Zhu, **Ryuichi Takanobu**, Zheng Zhang, Yaoqin Zhang, Xiang Li, Jinchao Li, Baolin Peng, Xiujun Li, Minlie Huang and Jianfeng Gao. ConvLab: Multi-Domain End-to-End Dialog System Platform. (Demo, <font color="#dd0000">Best Demo Paper Nominee</font>) The 57th Annual Meeting of the Association for Computational Linguistics. (**ACL'19**) [[pdf]](https://truthless11.github.io/pdf/ConvLab.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab.bib) [[code]](https://github.com/ConvLab/ConvLab)
 - **Ryuichi Takanobu**, Tao Zhuang, Minlie Huang, Jun Feng, Haihong Tang and Bo Zheng. Aggregating E-commerce Search Results from Heterogeneous Sources via Hierarchical Reinforcement Learning. The 28th International Conference on World Wide Web. (**WWW'19**) [[pdf]](https://truthless11.github.io/pdf/HRLAS.pdf) [[bib]](https://truthless11.github.io/bib/HRLAS.bib)
-- **Ryuichi Takanobu**, Tianyang Zhang, Jiexi Liu and Minlie Huang. A Hierarchical Framework for Relation Extraction with Reinforcement Learning. (<font color="#dd0000">Oral</font>) The 33rd AAAI Conference on Artificial Intelligence. (**AAAI'19**) [[pdf]](https://truthless11.github.io/pdf/HRLRE.pdf) [[bib]](https://truthless11.github.io/bib/HRLRE.bib) [[code]](https://github.com/truthless11/HRL-RE)
+- **Ryuichi Takanobu**\*, Tianyang Zhang\*, Jiexi Liu and Minlie Huang. A Hierarchical Framework for Relation Extraction with Reinforcement Learning. (<font color="#dd0000">Oral</font>) The 33rd AAAI Conference on Artificial Intelligence. (**AAAI'19**) [[pdf]](https://truthless11.github.io/pdf/HRLRE.pdf) [[bib]](https://truthless11.github.io/bib/HRLRE.bib) [[code]](https://github.com/truthless11/HRL-RE)
 - **Ryuichi Takanobu**, Minlie Huang, Zhongzhou Zhao, Fenglin Li, Haiqing Chen, Liqiang Nie and Xiaoyan Zhu. Weakly Supervised Topic Segmentation and Labeling in Goal-Oriented Dialogues via Reinforcement Learning. The 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence. (**IJCAI-ECAI'18**) [[pdf]](https://truthless11.github.io/pdf/TopicSegLabel.pdf) [[bib]](https://truthless11.github.io/bib/TopicSegLabel.bib) [[code]](https://github.com/truthless11/Topic-Seg-Label)
 
 **Journal Papers**
@@ -36,8 +38,8 @@ Publications
 
 **Workshop Papers and Preprints**
 
-- **Ryuichi Takanobu**, Wenchang Ma, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib]](https://truthless11.github.io/bib/CRWalker.bib) [[code]](https://github.com/truthless11/CR-Walker)
-- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/bib/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib)
+- **Ryuichi Takanobu**\*, Wenchang Ma\*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib]](https://truthless11.github.io/bib/CRWalker.bib) [[code]](https://github.com/truthless11/CR-Walker)
+- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/bib/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data]](https://github.com/lexmen318/MultiWOZ_2.3)
 - Jinchao Li, Qi Zhu, Lingxiao Luo, Lars Liden, Kaili Huang, Shahin Shayandeh, Runze Liang, Baolin Peng, Zheng Zhang, Swadheen Shukla, **Ryuichi Takanobu**, Minlie Huang and Jianfeng Gao. Multi-Domain Task Completion Dialog Challenge II at DSTC9. The 9th Dialog System Technology Challenge Workshop at the 35th AAAI Conference on Artificial Intelligence. (**DSTC9@AAAI'21**) [[pdf]](https://truthless11.github.io/pdf/DSTC9.pdf) [[bib]](https://truthless11.github.io/bib/DSTC9.bib)
 - Jinchao Li, Baolin Peng, Sungjin Lee, Jianfeng Gao, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang, Hannes Schulz, Adam Atkinson and Mahmoud Adada. Multi-Domain Task-Completion Dialog Challenge at DSTC8. The 8th Dialog System Technology Challenge Workshop at the 34th AAAI Conference on Artificial Intelligence. (**DSTC8@AAAI'20**) [[pdf]](https://truthless11.github.io/pdf/DSTC8.pdf) [[bib]](https://truthless11.github.io/bib/DSTC8.bib)
 
