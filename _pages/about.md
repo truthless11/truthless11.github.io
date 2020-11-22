@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, recommender systems and reinforcement learning.
+I am now a second year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, web search and reinforcement learning.
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-(* indicates equal contribution)
+(\* indicates equal contribution)
 
 **Conference Papers**
 
@@ -45,7 +45,7 @@ Publications
 
 Experience
 ======
--  Feb. 2021 - May 2021 (expected). Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
+-  Feb. 2021 - May 2021. Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
 - Jun. 2020 - Sep. 2020. Research Intern, WeChat AI Team, Tencent, Beijing, China.
 - Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba, Hangzhou, China.
 
