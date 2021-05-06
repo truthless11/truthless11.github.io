@@ -8,19 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, search engines and reinforcement learning. I will join the Search Algorithm Team in Alibaba, Hangzhou in summer 2021.
+I am now a second-year academic master student in [THUCoAI group](http://coai.cs.tsinghua.edu.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). My major research interests are about dialog systems, search engines and reinforcement learning. I will join the Search Algorithm Team in Alibaba, Hangzhou in summer 2021.
 
 Education
 ======
-- **Aug. 2019 - Jul. 2021 (expected)**  M.Eng., Department of Computer Science and Technology, Tsinghua University, Beijing, China.
-- **Aug. 2015 - Jul. 2019** B.Eng., Department of Computer Science and Technology, Tsinghua University, Beijing, China.
+- **Aug. 2019 - Jun. 2021 (expected)**  M.S., Department of Computer Science and Technology, Tsinghua University, Beijing, China.
+- **Sep. 2015 - Jul. 2019** B.S., Department of Computer Science and Technology, Tsinghua University, Beijing, China.
 
 Publications
 ======
 (\* indicates equal contribution)
 
-**Conference Papers**
+**Preprint**
 
+- **Ryuichi Takanobu***, Wenchang Ma*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf\]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib\]](https://truthless11.github.io/bib/CRWalker.bib) [[code\]](https://github.com/truthless11/CR-Walker)
+- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Dazhen Wan, Chongxuan Huang, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf\]](https://truthless11.github.io/bib/MultiWOZ23.pdf) [[bib\]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data\]](https://github.com/lexmen318/MultiWOZ_2.3)
+
+**Conference Paper**
+
+- **Ryuichi Takanobu**\*, Jiexi Liu\*, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng Li, Wei Peng and Minlie Huang. Robustness Testing of Language Understanding in Task-Oriented Dialog. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/LAUG.pdf) [[bib]](https://truthless11.github.io/bib/LAUG.bib) [[code]](https://github.com/thu-coai/LAUG)
+- Yujia Qin, Yankai Lin, **Ryuichi Takanobu**, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou. ERICA: Improving Entity and Relation Understanding for Pretrained Language Models by Contrastive Learning. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/ERICA.pdf) [[bib]](https://truthless11.github.io/bib/ERICA.bib) [[code]](https://github.com/thunlp/ERICA)
+- **Ryuichi Takanobu**\*, Silin Gao\*, Wei Peng, Qun Liu and Minlie Huang. HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. (**Findings@ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/HyKnow.pdf) [[bib]](https://truthless11.github.io/bib/HyKnow.bib) [[code]](https://github.com/truthless11/HyKnow)
 - Peixin Huang, Xiang Zhao, **Ryuichi Takanobu**, Zhen Tan and Weidong Xiao. Joint Event Extraction with Hierarchical Policy Network. The 28th International Conference on Computational Linguistics. (**COLING'20**) [[pdf]](https://truthless11.github.io/pdf/HRLEE.pdf) [[bib]](https://truthless11.github.io/bib/HRLEE.bib) 
 - **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. (Demo) The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
@@ -31,30 +39,26 @@ Publications
 - **Ryuichi Takanobu**\*, Tianyang Zhang\*, Jiexi Liu and Minlie Huang. A Hierarchical Framework for Relation Extraction with Reinforcement Learning. (<font color="#dd0000">Oral</font>) The 33rd AAAI Conference on Artificial Intelligence. (**AAAI'19**) [[pdf]](https://truthless11.github.io/pdf/HRLRE.pdf) [[bib]](https://truthless11.github.io/bib/HRLRE.bib) [[code]](https://github.com/truthless11/HRL-RE)
 - **Ryuichi Takanobu**, Minlie Huang, Zhongzhou Zhao, Fenglin Li, Haiqing Chen, Liqiang Nie and Xiaoyan Zhu. Weakly Supervised Topic Segmentation and Labeling in Goal-Oriented Dialogues via Reinforcement Learning. The 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence. (**IJCAI-ECAI'18**) [[pdf]](https://truthless11.github.io/pdf/TopicSegLabel.pdf) [[bib]](https://truthless11.github.io/bib/TopicSegLabel.bib) [[code]](https://github.com/truthless11/Topic-Seg-Label)
 
-**Journal Papers**
+**Journal Paper**
 
-- Zheng Zhang, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog Systems. Science China Technological Sciences, 2020. (**SCTS'20**) [[pdf]](https://truthless11.github.io/pdf/Review.pdf) [[bib]](https://truthless11.github.io/bib/Review.bib)
+- Zheng Zhang, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang and Xiaoyan Zhu. Recent Advances and Challenges in Task-Oriented Dialog Systems. Science China Technological Sciences, 2020. (**SCTS'20**) [[pdf]](https://truthless11.github.io/pdf/TODReview.pdf) [[bib]](https://truthless11.github.io/bib/TODReview.bib)
 - Lizi Liao, **Ryuichi Takanobu**, Yunshan Ma, Xun Yang, Minlie Huang and Tat-Seng Chua. Topic-Guided Conversational Recommender in Multiple Domains. Transactions on Knowledge and Data Engineering, 2020. (**TKDE'20**) [[pdf]](https://truthless11.github.io/pdf/DCR.pdf) [[bib]](https://truthless11.github.io/bib/DCR.bib) [[code]](https://github.com/truthless11/DCR)
 
-**Workshop Papers and Preprints**
+**Workshop Paper**
 
-- **Ryuichi Takanobu**\*, Jiexi Liu\*, Jiaxin Wen, Dazhen Wan, Weiran Nie, Hongyan Li, Cheng Li, Wei Peng and Minlie Huang. Robustness Testing of Language Understanding in Dialog Systems. [[pdf]](https://truthless11.github.io/pdf/LAUG.pdf) [[bib]](https://truthless11.github.io/bib/LAUG.bib)
-- Yujia Qin, Yankai Lin, **Ryuichi Takanobu**, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou. ERICA: Improving Entity and Relation Understanding for Pretrained Language Models by Contrastive Learning. [[pdf]](https://truthless11.github.io/pdf/ERICA.pdf) [[bib]](https://truthless11.github.io/bib/ERICA.bib)
-- **Ryuichi Takanobu**\*, Wenchang Ma\*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib]](https://truthless11.github.io/bib/CRWalker.bib) [[code]](https://github.com/truthless11/CR-Walker)
-- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/bib/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data]](https://github.com/lexmen318/MultiWOZ_2.3)
 - Jinchao Li\*, Qi Zhu\*, Lingxiao Luo, Lars Liden, Kaili Huang, Shahin Shayandeh, Runze Liang, Baolin Peng, Zheng Zhang, Swadheen Shukla, **Ryuichi Takanobu**, Minlie Huang and Jianfeng Gao. Multi-Domain Task Completion Dialog Challenge II at DSTC9. The 9th Dialog System Technology Challenge Workshop at the 35th AAAI Conference on Artificial Intelligence. (**DSTC9@AAAI'21**) [[pdf]](https://truthless11.github.io/pdf/DSTC9.pdf) [[bib]](https://truthless11.github.io/bib/DSTC9.bib)
 - Jinchao Li, Baolin Peng, Sungjin Lee, Jianfeng Gao, **Ryuichi Takanobu**, Qi Zhu, Minlie Huang, Hannes Schulz, Adam Atkinson and Mahmoud Adada. Multi-Domain Task-Completion Dialog Challenge at DSTC8. The 8th Dialog System Technology Challenge Workshop at the 34th AAAI Conference on Artificial Intelligence. (**DSTC8@AAAI'20**) [[pdf]](https://truthless11.github.io/pdf/DSTC8.pdf) [[bib]](https://truthless11.github.io/bib/DSTC8.bib)
 
 Experience
 ======
--  Feb. 2021 - May 2021. Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
+- Feb. 2021 - May 2021. Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
 - Jun. 2020 - Sep. 2020. Research Intern, WeChat AI Team, Tencent, Beijing, China.
 - Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba, Hangzhou, China.
 
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- PC Member: ACL 2020/21, EMNLP 2020, EACL 2021, NAACL 2021
+- PC Member: ACL 2020/21, EMNLP 2020/21, EACL 2021, NAACL 2021
 - Reviewer: IJCAI 2019, EMNLP 2019
 
 Honors and Awards
