@@ -21,7 +21,7 @@ Publications
 
 **Preprint**
 
-- **Ryuichi Takanobu***, Wenchang Ma*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf\]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib\]](https://truthless11.github.io/bib/CRWalker.bib) [[code\]](https://github.com/truthless11/CR-Walker)
+- **Ryuichi Takanobu**\*, Wenchang Ma*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf\]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib\]](https://truthless11.github.io/bib/CRWalker.bib) [[code\]](https://github.com/truthless11/CR-Walker)
 - Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Dazhen Wan, Chongxuan Huang, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf\]](https://truthless11.github.io/bib/MultiWOZ23.pdf) [[bib\]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data\]](https://github.com/lexmen318/MultiWOZ_2.3)
 
 **Conference Paper**
