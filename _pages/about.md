@@ -28,7 +28,7 @@ Publications
 
 - **Ryuichi Takanobu**\*, Jiexi Liu\*, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng Li, Wei Peng and Minlie Huang. Robustness Testing of Language Understanding in Task-Oriented Dialog. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/LAUG.pdf) [[bib]](https://truthless11.github.io/bib/LAUG.bib) [[code]](https://github.com/thu-coai/LAUG)
 - Yujia Qin, Yankai Lin, **Ryuichi Takanobu**, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou. ERICA: Improving Entity and Relation Understanding for Pretrained Language Models by Contrastive Learning. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/ERICA.pdf) [[bib]](https://truthless11.github.io/bib/ERICA.bib) [[code]](https://github.com/thunlp/ERICA)
-- **Ryuichi Takanobu**\*, Silin Gao\*, Wei Peng, Qun Liu and Minlie Huang. HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. (**Findings@ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/HyKnow.pdf) [[bib]](https://truthless11.github.io/bib/HyKnow.bib) [[code]](https://github.com/truthless11/HyKnow)
+- **Ryuichi Takanobu**\*, Silin Gao\*, Wei Peng, Qun Liu and Minlie Huang. HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. (**ACL-IJCNLP'21 Findings**) [[pdf]](https://truthless11.github.io/pdf/HyKnow.pdf) [[bib]](https://truthless11.github.io/bib/HyKnow.bib) [[code]](https://github.com/truthless11/HyKnow)
 - Peixin Huang, Xiang Zhao, **Ryuichi Takanobu**, Zhen Tan and Weidong Xiao. Joint Event Extraction with Hierarchical Policy Network. The 28th International Conference on Computational Linguistics. (**COLING'20**) [[pdf]](https://truthless11.github.io/pdf/HRLEE.pdf) [[bib]](https://truthless11.github.io/bib/HRLEE.bib) 
 - **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
 - Qi Zhu, Zheng Zhang, Yan Fang, Xiang Li, **Ryuichi Takanobu**, Jinchao Li, Baolin Peng, Jianfeng Gao, Xiaoyan Zhu and Minlie Huang. ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems. (Demo) The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/ConvLab2.pdf) [[bib]](https://truthless11.github.io/bib/ConvLab2.bib) [[code]](https://github.com/thu-coai/ConvLab-2)
@@ -58,7 +58,7 @@ Experience
 Services
 ======
 - Organizer: DSTC 8 Track 1, DSTC 9 Track 2
-- PC Member: ACL 2020/21, EMNLP 2020/21, EACL 2021, NAACL 2021
+- PC Member: ACL 2020/21, EMNLP 2020/21, EACL 2021, NAACL 2021, DialDoc 2021
 - Reviewer: IJCAI 2019, EMNLP 2019
 
 Honors and Awards
