@@ -64,11 +64,13 @@ Services
 
 Honors and Awards
 ======
+- Outstanding Master Thesis, Tsinghua University, 2021 (*Top-1 score in the DCST*)
+- Outstanding Graduate, Tsinghua University, 2021
 - SIGDIAL Best Paper, 2020
 - Alibaba Innovative Research Award, 2019
 - ACL Best Demo Paper Nominee, 2019
-- Excellent Undergraduate Thesis, Beijing, 2019 (*Top-1 score in the Department of CST*)
-- Excellent Graduate, Department of Computer Science and Technology, Tsinghua University, 2019
+- Outstanding Undergraduate Thesis, Beijing, 2019 (*Top-1 score in the DCST*)
+- Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University, 2019
 - Sensetime Scholarship, 2018
 - Qualcomm Scholarship, 2018
 - Chinese Mathematical Olympiad (CMO), Second Prize, 2015
