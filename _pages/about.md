@@ -22,12 +22,12 @@ Publications
 **Preprint**
 
 - **Ryuichi Takanobu**\*, Wenchang Ma\*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib]](https://truthless11.github.io/bib/CRWalker.bib) [[code]](https://github.com/truthless11/CR-Walker)
-- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Dazhen Wan, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/pdf/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data]](https://github.com/lexmen318/MultiWOZ_2.3)
+- Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Dazhen Wan, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dialogue Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/pdf/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data]](https://github.com/lexmen318/MultiWOZ_2.3)
 
 **Conference Paper**
 
-- **Ryuichi Takanobu**\*, Jiexi Liu\*, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng Li, Wei Peng and Minlie Huang. Robustness Testing of Language Understanding in Task-Oriented Dialog. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/LAUG.pdf) [[bib]](https://truthless11.github.io/bib/LAUG.bib) [[code]](https://github.com/thu-coai/LAUG)
-- Yujia Qin, Yankai Lin, **Ryuichi Takanobu**, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou. ERICA: Improving Entity and Relation Understanding for Pretrained Language Models by Contrastive Learning. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/ERICA.pdf) [[bib]](https://truthless11.github.io/bib/ERICA.bib) [[code]](https://github.com/thunlp/ERICA)
+- **Ryuichi Takanobu**\*, Jiexi Liu\*, Jiaxin Wen, Dazhen Wan, Hongguang Li, Weiran Nie, Cheng Li, Wei Peng and Minlie Huang. Robustness Testing of Language Understanding in Task-Oriented Dialog. (<font color="#dd0000">Oral</font>) The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/LAUG.pdf) [[bib]](https://truthless11.github.io/bib/LAUG.bib) [[code]](https://github.com/thu-coai/LAUG)
+- Yujia Qin, Yankai Lin, **Ryuichi Takanobu**, Zhiyuan Liu, Peng Li, Heng Ji, Minlie Huang, Maosong Sun and Jie Zhou. ERICA: Improving Entity and Relation Understanding for Pretrained Language Models by Contrastive Learning. (<font color="#dd0000">Oral</font>) The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing. (**ACL-IJCNLP'21**) [[pdf]](https://truthless11.github.io/pdf/ERICA.pdf) [[bib]](https://truthless11.github.io/bib/ERICA.bib) [[code]](https://github.com/thunlp/ERICA)
 - **Ryuichi Takanobu**\*, Silin Gao\*, Wei Peng, Qun Liu and Minlie Huang. HyKnow: End-to-End Task-Oriented Dialog Modeling with Hybrid Knowledge Management. The 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Findings. (**ACL-IJCNLP'21 Findings**) [[pdf]](https://truthless11.github.io/pdf/HyKnow.pdf) [[bib]](https://truthless11.github.io/bib/HyKnow.bib) [[code]](https://github.com/truthless11/HyKnow)
 - Peixin Huang, Xiang Zhao, **Ryuichi Takanobu**, Zhen Tan and Weidong Xiao. Joint Event Extraction with Hierarchical Policy Network. The 28th International Conference on Computational Linguistics. (**COLING'20**) [[pdf]](https://truthless11.github.io/pdf/HRLEE.pdf) [[bib]](https://truthless11.github.io/bib/HRLEE.bib) 
 - **Ryuichi Takanobu**, Runze Liang and Minlie Huang. Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition. The 58th Annual Meeting of the Association for Computational Linguistics. (**ACL'20**) [[pdf]](https://truthless11.github.io/pdf/MADPL.pdf) [[bib]](https://truthless11.github.io/bib/MADPL.bib) [[code]](https://github.com/truthless11/MADPL)
@@ -52,6 +52,7 @@ Publications
 
 Experience
 ======
+- Jul. 2021 - present. Senior Algorithm Engineer, Search Algorithm Team, Alibaba, Hangzhou, China.
 - Feb. 2021 - May 2021. Applied Scientist Intern, Alexa AI Team, Amazon, Seattle, WA, US.
 - Jun. 2020 - Sep. 2020. Research Intern, WeChat AI Team, Tencent, Beijing, China.
 - Jun. 2018 - Sep. 2018. Research Intern, Search Algorithm Team, Alibaba, Hangzhou, China.
@@ -65,7 +66,7 @@ Services
 Honors and Awards
 ======
 - Outstanding Master Thesis, Tsinghua University, 2021 (*Top-1 score in the DCST*)
-- Outstanding Graduate, Tsinghua University, 2021
+- Outstanding Master Graduate, Tsinghua University, 2021
 - SIGDIAL Best Paper, 2020
 - Alibaba Innovative Research Award, 2019
 - ACL Best Demo Paper Nominee, 2019
