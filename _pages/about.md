@@ -21,6 +21,7 @@ Publications
 
 **Preprint**
 
+- Silin Gao, **Ryuichi Takanobu** and Minlie Huang. End-to-End Task-Oriented Dialog Modeling with Semi-Structured Knowledge Management. [[pdf]](https://truthless11.github.io/pdf/SeKnow.pdf) [[bib]](https://truthless11.github.io/bib/SeKnow.bib)
 - **Ryuichi Takanobu**\*, Wenchang Ma\*, Minghao Tu and Minlie Huang. Bridging the Gap between Conversational Reasoning and Interactive Recommendation. [[pdf]](https://truthless11.github.io/pdf/CRWalker.pdf) [[bib]](https://truthless11.github.io/bib/CRWalker.bib) [[code]](https://github.com/truthless11/CR-Walker)
 - Ting Han, Ximing Liu, **Ryuichi Takanobu**, Yixin Lian, Chongxuan Huang, Dazhen Wan, Wei Peng and Minlie Huang. MultiWOZ 2.3: A Multi-Domain Task-Oriented Dialogue Dataset Enhanced with Annotation Corrections and Co-reference Annotation. [[pdf]](https://truthless11.github.io/pdf/MultiWOZ23.pdf) [[bib]](https://truthless11.github.io/bib/MultiWOZ23.bib) [[data]](https://github.com/lexmen318/MultiWOZ_2.3)
 
@@ -71,7 +72,7 @@ Honors and Awards
 - Alibaba Innovative Research Award, 2019
 - ACL Best Demo Paper Nominee, 2019
 - Outstanding Undergraduate Thesis, Beijing, 2019 (*Top-1 score in the DCST*)
-- Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University, 2019
+- Outstanding Undergraduate, Department of Computer Science and Technology, Tsinghua University, 2019
 - Sensetime Scholarship, 2018
 - Qualcomm Scholarship, 2018
 - Chinese Mathematical Olympiad (CMO), Second Prize, 2015
